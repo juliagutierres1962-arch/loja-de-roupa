@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia.gbenetti\\Documents\\centro_pokemon2\\loja de roupa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B53115-5071-4218-BF1B-E815845B3194}|loja de roupa\\loja de roupa.csproj|c:\\users\\julia.gbenetti\\documents\\centro_pokemon2\\loja de roupa\\loja de roupa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B53115-5071-4218-BF1B-E815845B3194}|loja de roupa\\loja de roupa.csproj|solutionrelative:loja de roupa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia.gbenetti\\Documents\\centro_pokemon2\\loja de roupa\\loja de roupa\\Program.cs",
+              "RelativeDocumentMoniker": "loja de roupa\\Program.cs",
+              "ToolTip": "C:\\Users\\julia.gbenetti\\Documents\\centro_pokemon2\\loja de roupa\\loja de roupa\\Program.cs*",
+              "RelativeToolTip": "loja de roupa\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:18:17.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
